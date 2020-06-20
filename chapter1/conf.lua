@@ -1,0 +1,6 @@
+--init file or configuration file
+-- function love.conf(w)
+--     w.screen.width = 300
+--     w.screen.height = 300
+--     w.screen.title ="Memos Adventure"
+-- end
